@@ -1,4 +1,4 @@
-Hospital Data Management System 
+# Hospital Data Management System 
 
 This project is a Hospital Data Management System, developed as part of a Database Management Systems (DBMS) course. It uses SQL to manage the backend data and Streamlit to create a clean, user-friendly interface. The main goal of this system is to simplify and digitize hospital recordkeeping by providing a centralized platform for managing patient details, doctor information, appointments, and more.
 
